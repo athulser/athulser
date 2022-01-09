@@ -18,7 +18,7 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/ameer-kallumthodi">Ameer-Kallumthodi</a> to make it public
+Project created by <a href="https://github.com/athulser">Ameer-Kallumthodi</a> to make it public
     <br>
        | © |
         Reserved |
@@ -100,7 +100,7 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/ameer-kallumthodi/pikachu
+$ git clone https://github.com/athulser/pikachu
 $ cd pikachu
 $ chmod +x *
 $ npm i
